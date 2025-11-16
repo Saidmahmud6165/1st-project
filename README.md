@@ -1,3 +1,1 @@
-# Frontend Mentor Challenge
----
-**
+
